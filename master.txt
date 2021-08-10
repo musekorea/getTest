@@ -2,11 +2,6 @@ Moya & Baozi loved eachother.
 And they got a baby. 
 The baby's name is Yazi. 
 
-<<<<<<< HEAD
-Yazi is a good baby.
-And Yazi is healthy.
-=======
 Yazi is a girl.
 She is a good baby.
 And She is healthy.
->>>>>>> girl
